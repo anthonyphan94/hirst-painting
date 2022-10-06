@@ -7,7 +7,7 @@ import turtle as turtle_module
 turtle_module.colormode(255)
 tim = turtle_module.Turtle()
 tim.penup()
-nums_of_dot = 40
+nums_of_dot = 4000
 
 tim.setheading(225)
 tim.forward(350*2)
